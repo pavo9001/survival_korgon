@@ -25,7 +25,7 @@ git clone https://github.com/pavo9001/survival_korgon.git survival_korgon
 
 This map has differing visuals between DZO and PS2/emulator.
 When building for PS2, make sure to toggle the DZO build off in the Build window and disabling the DZO only render in the inspector.
-When building for DZO make sure to turn off everything but the DZO build on the Build window nad disabling the PS2 render in the inspector.
+When building for DZO make sure to turn off everything but the DZO build on the Build window and disabling the PS2 render in the inspector.
 
 ![thumbnail](HUD/instruction_1.png)
 ![thumbnail](HUD/instruction_2.png)
