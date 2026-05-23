@@ -2,8 +2,8 @@
 #include <libdl/game.h>
 #include <libdl/stdlib.h>
 #include "game.h"
+#include "mobs/mob.h"
 #include "interop.h"
-#include "shared.h"
 
 float mapGetCurrentDifficulty(void);
 
