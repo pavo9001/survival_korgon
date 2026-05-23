@@ -386713,9 +386713,12 @@ MonoBehaviour:
   Defines: []
   Files:
   - {fileID: 102900000, guid: 574e3845b8674124e8b394ef97ef44e1, type: 3}
+  LoadFunctionName: 
   InitFunctionName: 
   CleanupFunctionName: 
+  StartFunctionName: 
   TickFunctionName: 
+  DrawFunctionName: 
   WaitForClientsReady: 0
   Metas: []
 --- !u!1 &1149895711
@@ -426551,7 +426554,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 6
+  MapVersion: 7
   MapName: Kavu Island
   MapAuthor: pavo9001
   MapDescription: '\red\[HARD]\normal\
