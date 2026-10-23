@@ -260510,7 +260510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Mob: 0
   Variant: 0
-  Behavior: 0
+  Behavior: 2
   Attributes: 1
   BlipType:
     HasOverride: 0
@@ -386677,7 +386677,7 @@ MonoBehaviour:
   DebugPath: 0
   DebugMove: 1
   DebugManualSpawning: 0
-  DebugInfiniteHealth: 1
+  DebugInfiniteHealth: 0
   DebugInfiniteAmmo: 1
   DebugPayday: 1
   DebugMoonjump: 0
@@ -426569,7 +426569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 9
+  MapVersion: 10
   MapName: Kavu Island
   MapAuthor: pavo9001
   MapDescription: '\red\[HARD]\normal\
@@ -532462,7 +532462,7 @@ MonoBehaviour:
       HasOverride: 0
       OverrideValue: 0
     Probability:
-      HasOverride: 0
+      HasOverride: 1
       OverrideValue: 0
     QueuedForTicks:
       HasOverride: 0
